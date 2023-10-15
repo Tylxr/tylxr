@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Tyler, a fullstack software developer from Suffolk in the UK.
+I'm Tyler, a Full Stack Software Developer based in Suffolk, UK.
 
 #### Current Personal Project 🙇‍♂️
 'Twitter Clone' is a narrowly scoped project I decided to start building as an excuse to design a highly scalable, distributed system that's over-engineered for its intended purpose. 🙃
