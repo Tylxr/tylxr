@@ -2,7 +2,7 @@
 I'm Tyler, a Full Stack Software Developer based in Suffolk, UK.
 
 #### Current Personal Project 🙇‍♂️
-'Twitter Clone' is a narrowly scoped project I decided to start building as an excuse to design a highly scalable, distributed system that's over-engineered for its intended purpose. 🙃 As there are no actual requirements, the design is purposely only scalable to a point and it's tuned to work with low traffic out of the box! It's just for fun. 😊
+'Twitter Clone' is a narrowly scoped project I decided to start building as an excuse to design a highly scalable, distributed system that's over-engineered for its intended purpose. 🙃 As there are no actual requirements, the design is purposely only scalable to a point and it's tuned to work with low-medium traffic out of the box! It's just for fun. 😊
 
 Feel free to browse the code if you're interested.
 
