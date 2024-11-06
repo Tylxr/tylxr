@@ -1,11 +1,6 @@
 ## Hi there 👋
 I'm Tyler, a Full Stack Software Developer based in Suffolk, UK.
 
-#### Current Personal Project 🙇‍♂️
-'Twitter Clone' is a narrowly scoped project I decided to start building as an excuse to design a scalable, distributed system that's over-engineered for its intended purpose. 🙃 As there are no actual requirements, the design is purposely only scalable to a point and it's tuned to work with low-medium traffic out of the box, despite having the extensibility to handle more! It's just for fun. 😊
-
-Feel free to browse the code if you're interested.
-
 <!--
 **Tylxr/tylxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
