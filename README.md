@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Tyler, a Full Stack Software Developer.
+I'm Tyler, a Senior Software Engineer.
 
 <!--
 **Tylxr/tylxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
