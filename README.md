@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Tyler, a Senior Software Engineer.
+I'm Tyler Marshall, a Senior Software Engineer originally from the UK, but now based in Austin, Texas!
 
 <!--
 **Tylxr/tylxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
